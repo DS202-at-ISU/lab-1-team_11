@@ -23,11 +23,7 @@ Hello world
 Prerequisites (12.1)
 -Maya's Note:Completed (test repository on GitHub)
 
-<<<<<<< HEAD
 -Mahathi's Note: Completed (repo on Git)
-=======
--Mahathi's Note: 
->>>>>>> fcd3e0287495c00489867db2c60f62db566c1d13
 
 -Vaishnavi's Note: completed
 
