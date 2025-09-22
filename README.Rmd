@@ -11,7 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Lab report #1
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished git pull --no-rebase
+during the lab time, but you have time until Monday evening to polish things.
 
 Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
 
@@ -22,14 +23,18 @@ Hello world
 Prerequisites (12.1)
 -Maya's Note:Completed (test repository on GitHub)
 
+<<<<<<< HEAD
+-Mahathi's Note: Completed (repo on Git)
+=======
 -Mahathi's Note: 
+>>>>>>> fcd3e0287495c00489867db2c60f62db566c1d13
 
 -Vaishnavi's Note: completed
 
 Make a repo on GitHub (12.2)
 -Maya's Note:Completed 
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note: completed (Created repo on gitHub)
 
@@ -37,7 +42,7 @@ Make a repo on GitHub (12.2)
 Clone the test GitHub repository to your computer via RStudio (12.3)
 -Maya's Note: Worked
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -45,15 +50,16 @@ Clone the test GitHub repository to your computer via RStudio (12.3)
 Make local changes, save, commit (12.4)
 -Maya's Note: New local changes saved and completed.
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
 
 Push your local changes online to GitHub (12.5)
--Maya's Note: Completed
 
--Mahathi's Note:
+-Maya's Note: Completed
+ 
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -61,7 +67,7 @@ Push your local changes online to GitHub (12.5)
 Confirm the local change propagated to the GitHub remote (12.6)
 -Maya's Note:Confirmed 
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -69,7 +75,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 Clean up (12.7)
 -Maya's Note:Done 
 
--Mahathi's Note:
+-Mahathi's Note: Not supposed to complete
 
 -Vaishnavi's Note:
 
