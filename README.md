@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LpHtQdRY)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -16,7 +15,49 @@ to your repository.
 All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
-you are done with your submission.
+you are done with your submission. Hello world
 
-Maya France: This is a line from RStudio
-Mahathi Reddy : This is a line from RStudio
+Prerequisites (12.1) -Maya’s Note:Completed (test repository on GitHub)
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
+
+Make a repo on GitHub (12.2) -Maya’s Note:Completed
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
+
+Clone the test GitHub repository to your computer via RStudio (12.3)
+-Maya’s Note: Worked
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
+
+Make local changes, save, commit (12.4) -Maya’s Note: New local changes
+saved and completed.
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
+
+Push your local changes online to GitHub (12.5) -Maya’s Note: Completed
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
+
+Confirm the local change propagated to the GitHub remote (12.6) -Maya’s
+Note:Confirmed
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
+
+Clean up (12.7) -Maya’s Note:Done
+
+-Mahathi’s Note:
+
+-Vaishnavi’s Note:
