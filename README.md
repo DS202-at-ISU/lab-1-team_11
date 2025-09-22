@@ -43,17 +43,16 @@ Clone the test GitHub repository to your computer via RStudio (12.3)
 
 Make local changes, save, commit (12.4)
 
--Maya’s Note: New local changes saved and completed.
+-Maya’s Note: New local changes saved and completed. This is a line from
+RStudio
 
--Mahathi’s Note: Completed (repo on Git)
+-Mahathi’s Note: Completed (repo on Git) This is a line from RStudio
 
 -Vaishnavi’s Note:
 
-Push your local changes online to GitHub (12.5) \<\<\<\<\<\<\< HEAD
-=======
+Push your local changes online to GitHub (12.5)
 
--Maya’s Note: Completed \>\>\>\>\>\>\> 935524e (Organized and finished
-all problems.)
+-Maya’s Note: Completed
 
 -Maya’s Note: Completed
 
