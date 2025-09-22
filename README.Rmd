@@ -23,9 +23,13 @@ Hello world
 Prerequisites (12.1)
 -Maya's Note:Completed (test repository on GitHub)
 
+<<<<<<< HEAD
 -Mahathi's Note: Completed (repo on Git)
+=======
+-Mahathi's Note: 
+>>>>>>> fcd3e0287495c00489867db2c60f62db566c1d13
 
--Vaishnavi's Note:
+-Vaishnavi's Note: completed
 
 Make a repo on GitHub (12.2)
 -Maya's Note:Completed 
@@ -52,7 +56,8 @@ Make local changes, save, commit (12.4)
 
 
 Push your local changes online to GitHub (12.5)
--Maya's Note:
+
+-Maya's Note: Completed
  
 -Mahathi's Note: Completed (repo on Git)
 
@@ -60,7 +65,7 @@ Push your local changes online to GitHub (12.5)
 
 
 Confirm the local change propagated to the GitHub remote (12.6)
--Maya's Note:
+-Maya's Note:Confirmed 
 
 -Mahathi's Note: Completed (repo on Git)
 
@@ -68,7 +73,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 
 
 Clean up (12.7)
--Maya's Note:
+-Maya's Note:Done 
 
 -Mahathi's Note: Not supposed to complete
 
