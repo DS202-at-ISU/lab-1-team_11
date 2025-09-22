@@ -51,7 +51,7 @@ Make local changes, save, commit (12.4)
 
 
 Push your local changes online to GitHub (12.5)
--Maya's Note:
+-Maya's Note: Completed
 
 -Mahathi's Note:
 
@@ -59,7 +59,7 @@ Push your local changes online to GitHub (12.5)
 
 
 Confirm the local change propagated to the GitHub remote (12.6)
--Maya's Note:
+-Maya's Note:Confirmed 
 
 -Mahathi's Note:
 
@@ -67,7 +67,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 
 
 Clean up (12.7)
--Maya's Note:
+-Maya's Note:Done 
 
 -Mahathi's Note:
 
