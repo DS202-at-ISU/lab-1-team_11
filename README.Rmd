@@ -22,9 +22,9 @@ Hello world
 Prerequisites (12.1)
 -Maya's Note:Completed (test repository on GitHub)
 
--Mahathi's Note:
+-Mahathi's Note: 
 
--Vaishnavi's Note:
+-Vaishnavi's Note: completed
 
 Make a repo on GitHub (12.2)
 -Maya's Note:Completed 
