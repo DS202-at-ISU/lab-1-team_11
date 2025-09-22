@@ -18,4 +18,5 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+Maya France: This is a line from RStudio
 Mahathi Reddy : This is a line from RStudio
