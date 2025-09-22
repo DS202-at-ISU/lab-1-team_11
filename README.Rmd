@@ -31,7 +31,7 @@ Make a repo on GitHub (12.2)
 
 -Mahathi's Note:
 
--Vaishnavi's Note:
+-Vaishnavi's Note: completed (Created repo on gitHub)
 
 
 Clone the test GitHub repository to your computer via RStudio (12.3)
