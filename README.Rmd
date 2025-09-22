@@ -22,14 +22,14 @@ Hello world
 Prerequisites (12.1)
 -Maya's Note:Completed (test repository on GitHub)
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
 Make a repo on GitHub (12.2)
 -Maya's Note:Completed 
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -37,7 +37,7 @@ Make a repo on GitHub (12.2)
 Clone the test GitHub repository to your computer via RStudio (12.3)
 -Maya's Note: Worked
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -45,15 +45,15 @@ Clone the test GitHub repository to your computer via RStudio (12.3)
 Make local changes, save, commit (12.4)
 -Maya's Note: New local changes saved and completed.
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
 
 Push your local changes online to GitHub (12.5)
 -Maya's Note:
-
--Mahathi's Note:
+ 
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -61,7 +61,7 @@ Push your local changes online to GitHub (12.5)
 Confirm the local change propagated to the GitHub remote (12.6)
 -Maya's Note:
 
--Mahathi's Note:
+-Mahathi's Note: Completed (repo on Git)
 
 -Vaishnavi's Note:
 
@@ -69,7 +69,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 Clean up (12.7)
 -Maya's Note:
 
--Mahathi's Note:
+-Mahathi's Note: Not supposed to complete
 
 -Vaishnavi's Note:
 
