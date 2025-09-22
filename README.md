@@ -1,7 +1,12 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-# Lab report \#1
+# Lab report #1
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
