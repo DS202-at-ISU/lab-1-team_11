@@ -20,7 +20,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 Hello world
 
 Prerequisites (12.1)
--Maya's Note:
+-Maya's Note:Completed
 
 -Mahathi's Note:
 
@@ -28,7 +28,7 @@ Prerequisites (12.1)
 -Vaishnavi's Note:
 
 Make a repo on GitHub (12.2)
--Maya's Note:
+-Maya's Note:Completed 
 
 
 -Mahathi's Note:
@@ -38,7 +38,7 @@ Make a repo on GitHub (12.2)
 
 
 Clone the test GitHub repository to your computer via RStudio (12.3)
--Maya's Note:
+-Maya's Note: Worked
 
 
 -Mahathi's Note:
