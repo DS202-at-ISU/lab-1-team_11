@@ -73,7 +73,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 
 
 Clean up (12.7)
--Maya's Note:Done 
+-Maya's Note: Read instructions. okay.
 
 -Mahathi's Note: Not supposed to complete
 
