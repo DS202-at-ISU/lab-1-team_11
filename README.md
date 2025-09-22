@@ -15,32 +15,38 @@ to your repository.
 All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
-you are done with your submission. Hello world
+you are done with your submission.
 
-Prerequisites (12.1) -Maya’s Note:Completed (test repository on GitHub)
+Prerequisites (12.1)
 
-\<\<\<\<\<\<\< HEAD -Mahathi’s Note: Completed (repo on Git) =======
--Mahathi’s Note: \>\>\>\>\>\>\> fcd3e0287495c00489867db2c60f62db566c1d13
+-Maya’s Note:Completed (test repository on GitHub)
+
+-Mahathi’s Note: Completed (repo on Git)
 
 -Vaishnavi’s Note: completed
 
-Make a repo on GitHub (12.2) -Maya’s Note:Completed
+Make a repo on GitHub (12.2)
+
+-Maya’s Note:Completed
 
 -Mahathi’s Note: Completed (repo on Git)
 
 -Vaishnavi’s Note: completed (Created repo on gitHub)
 
 Clone the test GitHub repository to your computer via RStudio (12.3)
+
 -Maya’s Note: Worked
 
 -Mahathi’s Note: Completed (repo on Git)
 
 -Vaishnavi’s Note: completed
 
-Make local changes, save, commit (12.4) -Maya’s Note: New local changes
-saved and completed.
+Make local changes, save, commit (12.4)
 
--Mahathi’s Note: Completed (repo on Git)
+-Maya’s Note: New local changes saved and completed. This is a line from
+RStudio
+
+-Mahathi’s Note: Completed (repo on Git) This is a line from RStudio
 
 -Vaishnavi’s Note:
 
@@ -48,18 +54,23 @@ Push your local changes online to GitHub (12.5)
 
 -Maya’s Note: Completed
 
--Mahathi’s Note: Completed (repo on Git)
-
--Vaishnavi’s Note:
-
-Confirm the local change propagated to the GitHub remote (12.6) -Maya’s
-Note:Confirmed
+-Maya’s Note: Completed
 
 -Mahathi’s Note: Completed (repo on Git)
 
 -Vaishnavi’s Note:
 
-Clean up (12.7) -Maya’s Note:Done
+Confirm the local change propagated to the GitHub remote (12.6)
+
+-Maya’s Note:Confirmed
+
+-Mahathi’s Note: Completed (repo on Git)
+
+-Vaishnavi’s Note:
+
+Clean up (12.7)
+
+-Maya’s Note: Read instructions. okay.
 
 -Mahathi’s Note: Not supposed to complete
 
