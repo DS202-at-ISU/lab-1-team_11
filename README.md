@@ -1,12 +1,7 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-# Lab report #1
+# Lab report \#1
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -53,7 +48,7 @@ RStudio
 
 -Mahathi’s Note: Completed (repo on Git) This is a line from RStudio
 
--Vaishnavi’s Note:
+-Vaishnavi’s Note: here’s my local changes. This is a line from RStudio
 
 Push your local changes online to GitHub (12.5)
 
@@ -63,7 +58,7 @@ Push your local changes online to GitHub (12.5)
 
 -Mahathi’s Note: Completed (repo on Git)
 
--Vaishnavi’s Note:
+-Vaishnavi’s Note: completed
 
 Confirm the local change propagated to the GitHub remote (12.6)
 
@@ -71,7 +66,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 
 -Mahathi’s Note: Completed (repo on Git)
 
--Vaishnavi’s Note:
+-Vaishnavi’s Note: Done
 
 Clean up (12.7)
 
@@ -79,4 +74,4 @@ Clean up (12.7)
 
 -Mahathi’s Note: Not supposed to complete
 
--Vaishnavi’s Note:
+-Vaishnavi’s Note: We can’t delete the repo

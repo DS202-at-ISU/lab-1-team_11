@@ -65,7 +65,7 @@ Push your local changes online to GitHub (12.5)
  
 -Mahathi's Note: Completed (repo on Git)
 
--Vaishnavi's Note:
+-Vaishnavi's Note: completed
 
 
 Confirm the local change propagated to the GitHub remote (12.6)
@@ -74,7 +74,7 @@ Confirm the local change propagated to the GitHub remote (12.6)
 
 -Mahathi's Note: Completed (repo on Git)
 
--Vaishnavi's Note:
+-Vaishnavi's Note: Done
 
 
 Clean up (12.7)
@@ -83,7 +83,7 @@ Clean up (12.7)
 
 -Mahathi's Note: Not supposed to complete
 
--Vaishnavi's Note:
+-Vaishnavi's Note: We can't delete the repo
 
 
 
