@@ -54,7 +54,7 @@ This is a line from RStudio
 -Mahathi's Note: Completed (repo on Git)
 This is a line from RStudio
 
--Vaishnavi's Note:
+-Vaishnavi's Note: here's my local changes. This is a line from RStudio
 
 
 Push your local changes online to GitHub (12.5)
