@@ -56,11 +56,8 @@ Make local changes, save, commit (12.4)
 
 
 Push your local changes online to GitHub (12.5)
-<<<<<<< HEAD
-=======
 
 -Maya's Note: Completed
->>>>>>> 935524e (Organized and finished all problems.)
 
 -Maya's Note: Completed
  
