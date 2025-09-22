@@ -19,4 +19,61 @@ All submissions to the github repo will be automatically uploaded for grading on
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 Hello world
 
-test 
+Prerequisites (12.1)
+-Maya's Note:
+
+-
+
+
+-
+
+Make a repo on GitHub (12.2)
+-Maya's Note:
+
+
+Clone the test GitHub repository to your computer via RStudio (12.3)
+-Maya's Note:
+
+
+-
+
+
+-
+
+Make local changes, save, commit (12.4)
+-Maya's Note:
+
+
+-
+
+
+-
+
+Push your local changes online to GitHub (12.5)
+-Maya's Note:
+
+
+-
+
+
+-
+
+Confirm the local change propagated to the GitHub remote (12.6)
+-Maya's Note:
+
+
+-
+
+
+-
+
+Clean up (12.7)
+-Maya's Note:
+
+
+-
+
+
+-
+
+
